@@ -1,0 +1,14 @@
+Package: MetaboseekData
+Title: Metaboseek Data
+Version: 0.9
+Authors@R: person("Maximilian", "Helf", email = "maximilian.helf@gmail.com", role = c("aut", "cre"), comment = c(ORCID = "0000-0002-1393-3999"))
+biocViews: MassSpectrometry, MassSpectrometryData
+Description: Example data for the Metaboseek package
+Depends: R (>= 3.6.0)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Imports: utils
+Suggests: Metaboseek
+VignetteBuilder: knitr
